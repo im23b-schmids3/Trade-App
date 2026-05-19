@@ -20,7 +20,7 @@ function App() {
         <section className="section-card" style={{ marginBottom: "1.25rem" }}>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <div>
-              <p style={{ color: "var(--fg-muted)", margin: 0 }}>Perpetual Futures · BTCUSDT</p>
+              <p style={{ color: "var(--fg-muted)", margin: 0 }}>Perpetual Futures â€¢ BTCUSDT</p>
               <h1 style={{ margin: "0.3rem 0", fontSize: "2.4rem" }}>67,131.02</h1>
               <div style={{ display: "flex", gap: "0.75rem", fontSize: "0.9rem" }}>
                 <span className="badge" style={{ color: "var(--success)" }}>+2.15%</span>
